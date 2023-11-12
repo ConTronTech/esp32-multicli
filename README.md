@@ -9,4 +9,4 @@ A mobile device
 
 # setup gide
 lets set up your esp cams
-so download the [https://github.com/easytarget/esp32-cam-webserver](ESP-cam-server)
+so download the <a href="https://github.com/easytarget/esp32-cam-webserver">ESP-cam-server</a>
