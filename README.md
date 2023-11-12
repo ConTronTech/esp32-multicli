@@ -21,3 +21,8 @@ next you want to change a few things in the esp cam files to make it connect to 
 3. now let set up your SSID and password for the esps "note this will need to be the same SSID and password for all the devices" make a ssid and password for your device and save it now program both of your esp-cams.
 <br>![Arduino_IDE_kWTuYaMcgf](https://github.com/ConTronTech/esp32-multicli/assets/120324560/4c2ba549-844d-4aaf-abe7-9a851516e751)</br>
 <br>![Arduino_IDE_vyTp5eTZmQ](https://github.com/ConTronTech/esp32-multicli/assets/120324560/7b23e964-f546-4883-a7c2-f39f2f336a33)</br>
+
+4. time for the esp32 itself open the provided "esp-cam-multicli" ino file and type in your SSID and password you made previously then upload it to the board
+<br>![Arduino_IDE_AqCR28QMhE](https://github.com/ConTronTech/esp32-multicli/assets/120324560/b6264273-260e-4c50-a4db-3c45b4a7b8f5)</br>
+
+5. play with your new toy
