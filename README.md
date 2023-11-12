@@ -46,6 +46,10 @@ Open the `esp-cam-multicli.ino` file and input the same SSID and password. Uploa
 
 Once everything is set up, enjoy monitoring your space with your newly configured ESP32-CAM setup!
 
+### Note about the esp
+
+The esp can only handle up to 3 cameras with a moderate amount of performance loss so this project is locked to only 2 cameras.
+
 ---
 
 Good luck with your project! 🚀👨‍💻
