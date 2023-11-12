@@ -19,5 +19,5 @@ next you want to change a few things in the esp cam files to make it connect to 
 <br>![Arduino_IDE_jBiUAHnRmR](https://github.com/ConTronTech/esp32-multicli/assets/120324560/06b1d03f-d849-4996-8825-330f8bc1e879)</br>
 
 3. now let set up your SSID and password for the esps "note this will need to be the same SSID and password for all the devices" make a ssid and password for your device and save it now program both of your esp-cams.
-![Arduino_IDE_kWTuYaMcgf](https://github.com/ConTronTech/esp32-multicli/assets/120324560/4c2ba549-844d-4aaf-abe7-9a851516e751)
-![Arduino_IDE_vyTp5eTZmQ](https://github.com/ConTronTech/esp32-multicli/assets/120324560/7b23e964-f546-4883-a7c2-f39f2f336a33)
+<br>![Arduino_IDE_kWTuYaMcgf](https://github.com/ConTronTech/esp32-multicli/assets/120324560/4c2ba549-844d-4aaf-abe7-9a851516e751)</br>
+<br>![Arduino_IDE_vyTp5eTZmQ](https://github.com/ConTronTech/esp32-multicli/assets/120324560/7b23e964-f546-4883-a7c2-f39f2f336a33)</br>
